@@ -124,7 +124,7 @@ index 7a34ef5514a30bcb61e657970bf087bdf9c2db90..00000000000000000000000000000000
 -
 -    <groupId>org.spigotmc</groupId>
 -    <artifactId>spigot-api</artifactId>
--    <version>1.18.2-R0.1-SNAPSHOT</version>
+-    <version>1.19-SNAPSHOT</version>
 -    <packaging>jar</packaging>
 -
 -    <name>Spigot-API</name>

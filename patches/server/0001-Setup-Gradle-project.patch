@@ -58,7 +58,7 @@ index 0000000000000000000000000000000000000000..75c858870a55f7282a0e3500f803cb33
 +    testImplementation("org.hamcrest:hamcrest-library:1.3")
 +}
 +
-+val craftbukkitPackageVersion = "1_18_R2" // Paper
++val craftbukkitPackageVersion = "1_19" // Paper
 +tasks.jar {
 +    archiveClassifier.set("dev")
 +
@@ -181,7 +181,7 @@ index ac2dbe041d8a286ed7a34bf20c88464693f32a25..00000000000000000000000000000000
 -    <groupId>org.spigotmc</groupId>
 -    <artifactId>spigot</artifactId>
 -    <packaging>jar</packaging>
--    <version>1.18.2-R0.1-SNAPSHOT</version>
+-    <version>1.19-R0.1-SNAPSHOT</version>
 -    <name>Spigot</name>
 -    <url>https://www.spigotmc.org/</url>
 -
@@ -197,7 +197,7 @@ index ac2dbe041d8a286ed7a34bf20c88464693f32a25..00000000000000000000000000000000
 -        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 -        <api.version>unknown</api.version>
 -        <bt.name>git</bt.name>
--        <minecraft_version>1_18_R2</minecraft_version>
+-        <minecraft_version>1_19</minecraft_version>
 -        <maven.compiler.source>16</maven.compiler.source>
 -        <maven.compiler.target>16</maven.compiler.target>
 -    </properties>
@@ -257,7 +257,7 @@ index ac2dbe041d8a286ed7a34bf20c88464693f32a25..00000000000000000000000000000000
 -        <dependency>
 -            <groupId>com.mojang</groupId>
 -            <artifactId>brigadier</artifactId>
--            <version>1.0.18</version>
+-            <version>1.0.19</version>
 -            <scope>compile</scope>
 -        </dependency>
 -        <dependency>

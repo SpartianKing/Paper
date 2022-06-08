@@ -10,7 +10,7 @@ java {
 
 dependencies {
     implementation(project(":paper-api"))
-    api("com.mojang:brigadier:1.0.18")
+    api("com.mojang:brigadier:1.19")
 
     compileOnly("it.unimi.dsi:fastutil:8.5.6")
     compileOnly("org.jetbrains:annotations:23.0.0")

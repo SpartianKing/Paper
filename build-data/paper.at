@@ -314,6 +314,9 @@ public org.bukkit.craftbukkit.block.data.CraftBlockData toNMS(Ljava/lang/Enum;Lj
 # Stronghold seed configuration
 public-f net.minecraft.world.level.chunk.ChunkGenerator strongholdSeed
 
+# Ancient City seed Configuration
+public-f net.minecraft.world.level.chunk.ChunkGenerator ancient_citySeed
+
 # More Sculk Sensor API
 public-f net.minecraft.world.level.gameevent.vibrations.VibrationListener listenerRange
 
